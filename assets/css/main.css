@@ -1,0 +1,96 @@
+
+
+
+.main {margin-left: 15%;
+  margin-right: 20%;
+  padding-left: 30px;
+  padding-right:30px;
+  weight: 1150px;
+  border-left: 4px solid;
+  border-right: 4px solid;
+  border-image: linear-gradient(to left, white, grey) 1 100%;
+}
+
+
+h1 {font-family: arial;
+  font-size: 48px;
+  color: #4d4a4a;
+}
+
+p { margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.menu {background-color: #515151;
+
+      height: 50px;
+      font-size: 18px;
+      font-family: arial;
+      color: white;
+
+    }
+
+.m { display: block;
+  float: left;
+  width: 230px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+
+.leftblock {margin-top: 60px;
+          width: 250px;
+          float: left;
+}
+
+.leftmenu {font-size: 16px;
+font-family: serif;
+}
+
+
+.l {
+display: block;
+border: solid 1px #d5d5d5;
+text-align: left;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 20px;
+}
+
+
+.content {margin-top: 60px;
+margin-left: 450px;
+margin-right: 20%
+weight: 630px;
+}
+
+
+img {border: 1px solid #d5d5d5;
+}
+
+.conttxt {font-family: serif;
+        color: #515151;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+
+
+
+    .footer {margin-top: 60px;
+            margin-bottom: 60px;
+    }
+
+    .footer {background-color: #d5d5d5;
+          height: 50px;
+          font-size: 18px;
+          font-family: arial;
+          color: #515151;
+        }
+
+    .f { display: block;
+      float: left;
+      width: 230px;
+      text-align: center;
+      padding-top: 15px;
+    }
